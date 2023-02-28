@@ -1,0 +1,12 @@
+Para quem não sabe direito por onde começar, mas por algum motivo deseja muito 
+aprender a linguagem Java, sugiro aprender a lógiga de programação utilizando
+o Portugol.
+
+O rio não pode chegar até ao mar, senão pelos extensos e finos braços.
+O que isso quer dizer? Você, iniciante não pode se expor à um conteúdo avançado
+sem antes percorrer o caminho necessário. Portanto reserve uns bons 3 meses para
+dominar os fundamentos da lógica de programação e algorítimos.
+
+Posteriormente, aprenda a sintaxe da linguagem Java. Você verá que existem muito
+mais semelhanças que diferenças do que foi aprendido anteriormente na linguagem
+Portugol.
